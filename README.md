@@ -1,16 +1,18 @@
-# React + Vite
+# AWDF Practical 1 React Student Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**Student:** Aryan Chanpa  
+**ID:** 24CS011  
+**Email:** 24cs011@charusat.edu.in  
+**Programme:** B.Tech CSE, CSPIT  
+**Semester:** 5
 
-Currently, two official plugins are available:
+This React and Vite project presents the student's portfolio with About, Skills, and Contact sections.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Run locally
 
-## React Compiler
+```bash
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+The practical report is in `pract-1-awdf-24cs011.docx`. The complete source tree is also available in `source-code-practical1.zip`.
